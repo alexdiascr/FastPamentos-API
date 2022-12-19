@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mb4fuEJRChEDtoOQTZYiOEksY+408ZRUqfru54UWaHDvsv4SjijFmzpHWKBKdCT6c6usMyi5q8jxsmSK5DLKFA==",
+  "success": true,
+  "projectFilePath": "A:\\Programacao\\GitHub\\Projetos\\APISistemaPagamentos\\FastPagamentos\\src\\FastPagamentos.API\\FastPagamentos.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\alexd\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
