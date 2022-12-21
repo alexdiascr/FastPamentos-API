@@ -1,6 +1,6 @@
 ﻿namespace FastPagamentos.Business.Models
 {
-    public class payment_orders : Entity
+    public class payment_order : Entity
     {
         public Guid checkout_id { get; set; }
         public Guid client_id { get; set; }

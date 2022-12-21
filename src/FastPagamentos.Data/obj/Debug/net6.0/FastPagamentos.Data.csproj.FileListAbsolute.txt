@@ -1,0 +1,17 @@
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\bin\Debug\net6.0\FastPagamentos.Data.deps.json
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\bin\Debug\net6.0\FastPagamentos.Data.runtimeconfig.json
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\bin\Debug\net6.0\FastPagamentos.Data.dll
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\bin\Debug\net6.0\FastPagamentos.Data.pdb
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\bin\Debug\net6.0\FastPagamentos.Business.dll
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\bin\Debug\net6.0\FastPagamentos.Business.pdb
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\obj\Debug\net6.0\FastPagamentos.Data.csproj.AssemblyReference.cache
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\obj\Debug\net6.0\FastPagamentos.Data.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\obj\Debug\net6.0\FastPagamentos.Data.AssemblyInfoInputs.cache
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\obj\Debug\net6.0\FastPagamentos.Data.AssemblyInfo.cs
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\obj\Debug\net6.0\FastPagamentos.Data.csproj.CoreCompileInputs.cache
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\obj\Debug\net6.0\FastPagamentos.Data.csproj.CopyComplete
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\obj\Debug\net6.0\FastPagamentos.Data.dll
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\obj\Debug\net6.0\refint\FastPagamentos.Data.dll
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\obj\Debug\net6.0\FastPagamentos.Data.pdb
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\obj\Debug\net6.0\FastPagamentos.Data.genruntimeconfig.cache
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Data\obj\Debug\net6.0\ref\FastPagamentos.Data.dll

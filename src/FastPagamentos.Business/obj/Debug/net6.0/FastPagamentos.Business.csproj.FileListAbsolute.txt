@@ -1,0 +1,12 @@
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Business\bin\Debug\net6.0\FastPagamentos.Business.deps.json
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Business\bin\Debug\net6.0\FastPagamentos.Business.dll
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Business\bin\Debug\net6.0\FastPagamentos.Business.pdb
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Business\obj\Debug\net6.0\FastPagamentos.Business.csproj.AssemblyReference.cache
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Business\obj\Debug\net6.0\FastPagamentos.Business.GeneratedMSBuildEditorConfig.editorconfig
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Business\obj\Debug\net6.0\FastPagamentos.Business.AssemblyInfoInputs.cache
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Business\obj\Debug\net6.0\FastPagamentos.Business.AssemblyInfo.cs
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Business\obj\Debug\net6.0\FastPagamentos.Business.csproj.CoreCompileInputs.cache
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Business\obj\Debug\net6.0\FastPagamentos.Business.dll
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Business\obj\Debug\net6.0\refint\FastPagamentos.Business.dll
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Business\obj\Debug\net6.0\FastPagamentos.Business.pdb
+A:\Programacao\GitHub\Projetos\APISistemaPagamentos\FastPagamentos\src\FastPagamentos.Business\obj\Debug\net6.0\ref\FastPagamentos.Business.dll
